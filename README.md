@@ -30,15 +30,16 @@ e *deposita* (ou *recebeTransferencia*, *recebePix*) para representar a **entrad
 
 ## Sugestão de tela para o menu: 
 
-<p></p>
-
 ![image](https://user-images.githubusercontent.com/66698429/218162389-1b68a232-e91b-44ba-b7b3-317920d69ee1.png)
+
+<p></p>
 
 
 ## Solução
 
 Minha solução do desafio [aqui](https://github.com/Camila-Barros/DesafioJavaBasico1/blob/master/src/Main.java)
 
+<p></p>
 
 
 ## Autora
