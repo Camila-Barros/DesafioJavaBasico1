@@ -12,7 +12,7 @@ Implementar uma aplicação para controlar sua conta bancária.
 
 ## Ferramentas
 
-- [Java](https://www.javascript.com/)
+- [Java](https://www.java.com/)
 
  
 ## Objetivos
